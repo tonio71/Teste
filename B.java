@@ -1,5 +1,8 @@
 public class B {
-    float desktop1;
+  int b1, b2;
 NOVO ATRIBUTO
-     public int MetodoDesktop(){}
+
+    public void main(String args[]){
+         System.out.println("TESTE");
+     }
 }
