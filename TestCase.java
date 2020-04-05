@@ -16,7 +16,7 @@ import junit.framework.*;
     * Test of somar method, of class junit.aplicativos.Calculadora.
     */
    public void testSomar() {
-     //TODO add your test code.
+     assertEquals(30, calc.somar(10,30), 0);
    }
    /**
     * Test of subtrair method, of class junit.aplicativos.Calculdora.
