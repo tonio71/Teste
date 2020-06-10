@@ -1,6 +1,6 @@
 package junit.aplicativos;
   /**
-   *  será tag 2
+   *  será tag 3
    * @autor Diogo
   */
  public class Calculadora{
