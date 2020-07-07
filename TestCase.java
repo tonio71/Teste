@@ -2,7 +2,7 @@ package junit.aplicativos;
 import junit.framework.*;
 /**
  *
- * @autor Diogo
+ * @autor Diogo teste
  */
  public class CalculadoraTest extends TestCase {
   public CalculadoraTest (String testName) {
