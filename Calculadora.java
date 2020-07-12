@@ -1,7 +1,7 @@
 package junit.aplicativos;
   /**
    *  será tag 3
-   * @autor Diogo  
+   * @autor Diogo  MAIS ANTONIO
   */
  public class Calculadora{
   public double somar (double num1, double num2){
